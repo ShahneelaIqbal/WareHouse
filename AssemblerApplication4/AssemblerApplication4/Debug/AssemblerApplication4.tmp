@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/OtherFiles\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\OtherFiles\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/OtherFiles\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>D:/OtherFiles\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\delay_Macro.inc</FILE>
+  <FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\UART_Macros.inc</FILE>
+  <FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\div_Macro.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\Debug\AssemblerApplication4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication4.map</FILE>
+  <FILE>AssemblerApplication4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>36</LINE></loop>
+  <loadThermalVal><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>124</LINE></loadThermalVal>
+  <OnThermalOn><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>49</LINE></OnThermalOn>
+  <flameSection><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>55</LINE></flameSection>
+  <IfFlameOn><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>64</LINE></IfFlameOn>
+  <EndLoop><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>68</LINE></EndLoop>
+  <onBuzzerOn><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>79</LINE></onBuzzerOn>
+  <onBuzzerOnBeep><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>84</LINE></onBuzzerOnBeep>
+  <onBuzzerOff><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>92</LINE></onBuzzerOff>
+  <buzzerskip><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>95</LINE></buzzerskip>
+  <ReadFromEsp><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>97</LINE></ReadFromEsp>
+  <skip_UART><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>121</LINE></skip_UART>
+  <externalTurnBuzzerOff><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>116</LINE></externalTurnBuzzerOff>
+  <wait><FILE>D:\Semester 3\COAL\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>129</LINE></wait>
+ </LABELS>
+</ASSEMBLER_INFO>
